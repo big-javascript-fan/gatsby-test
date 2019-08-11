@@ -1,0 +1,59 @@
+.proto-prog {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.proto-description {
+    font-weight: bold;
+}
+
+.proto-progress {
+    font-weight: bold;
+}
+
+.proto-steps-imgs {
+    margin-top: 30px;
+}
+
+.proto-steps-img {
+    width: 35px;
+}
+
+.proto-header {
+    margin-bottom: 10px;
+}
+
+.proto-steps-img1 {
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 17px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.proto-panoramica {
+    margin-top: 30px;
+}
+
+.proto-pano-item {
+    font-size: 15px;
+}
+
+.proto-check-img {
+    width: 25px;
+}
+
+.proto-pano-item p {
+    display: inline-block;
+    vertical-align: super;
+    margin-left: 10px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.proto-step-grp {
+    display: inline-block;
+}

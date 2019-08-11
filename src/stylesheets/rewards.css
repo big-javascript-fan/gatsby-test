@@ -1,0 +1,16 @@
+.rewards {
+    margin-top: 30px;
+    border-bottom: 1px solid black;
+    padding-bottom: 100px;
+}
+
+.rewards-header {
+    margin-bottom: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.rewards-icon {
+    width: 100%;
+}
+

@@ -1,0 +1,114 @@
+.product-card {
+    margin-top: 10px;
+    border: 1px solid #555555;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.product-card p {
+    margin-bottom: 0;
+}
+
+.product-card li {
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.product-info {
+    margin-top: 15px;
+}
+
+.prod-price-origin {
+    text-decoration: line-through;
+    font-size: 20px;
+    color: grey;
+    font-weight: bold;
+}
+
+.prod-price {
+    color: #fea500;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.prod-characters {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.prod-price-percent {
+    border-radius: 50%;
+    background: #3ebf42;
+    color: white;
+    font-size: 33px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.prod-price-label {
+    background-image: url(/src/images/prezzo.png);
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    background-size: 160px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.prod-detail {
+    margin-top: 10px;
+}
+
+.prod-character {
+    background: #fea500;
+    width: fit-content;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+}
+
+.prod-detail-price-group {
+    margin-top: 20px;
+}
+
+.prod-detail-price {
+    font-weight: bold;
+    font-size: 18px;
+    display: inline-block;
+}
+
+.prod-detail-origin {
+    display: inline-block;
+    margin-left: 5px;
+    font-weight: bold;
+    color: red;
+    text-decoration: line-through;
+}
+
+.prod-detail-origin span {
+    text-decoration: none;
+}
+
+.prod-detail-data {
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.prod-detail-amount {
+    margin-top: 20px;
+}
+
+.prod-select {
+    margin-top: 15px;
+    background: #fea500;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 5px;
+    width: fit-content;
+    color: white;
+    font-weight: bold;
+}

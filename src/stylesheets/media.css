@@ -1,0 +1,16 @@
+.sui-media {
+    margin-top: 30px;
+    border-bottom: 1px solid black;
+    padding-bottom: 100px;
+}
+
+.sui-media-header {
+    margin-bottom: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sui-media-icon {
+    width: 100%;
+}
+

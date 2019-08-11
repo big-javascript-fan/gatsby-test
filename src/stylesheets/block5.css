@@ -1,0 +1,31 @@
+.block5 {
+    margin-top: 60px;
+}
+
+.block5-item {
+    margin-bottom: 20px;
+}
+
+.block5-item p {
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 1.2;
+    text-align: center;
+}
+
+.block5-left {
+    display: inline-block;
+    width: 45%;
+}
+
+.block5-right {
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    margin-left: 20px;
+}
+
+.block5-item img {
+    width: 100%;
+}

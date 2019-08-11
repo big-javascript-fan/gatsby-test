@@ -1,0 +1,62 @@
+.def-top {
+    display: block;
+    border-bottom: 1px solid black;
+}
+
+.def-top div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.def-logo {
+    display: block;
+    width: 200px;
+}
+
+.def-middle-label {
+    margin-top: -15px;
+    padding-right: 40px;
+    padding-left: 40px;
+    background: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.def-middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.def-bottom-icons {
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.def-bottom-icon {
+    text-align: center;
+    width: 120px;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    vertical-align: top;
+    justify-content: center;
+    align-items: center;
+}
+
+.def-bottom-icon p {
+    font-weight: bold;
+}
+
+.def-bottom-icon img {
+    border-radius: 50%;
+    width: 60px;
+}
+
+.def-bottom-desc {
+    padding: 10px;
+}
